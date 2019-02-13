@@ -1,3 +1,3 @@
 # hello-world
 just a description 
-welcome to the wworld
+welcome to the world
